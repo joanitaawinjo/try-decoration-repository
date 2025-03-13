@@ -1,0 +1,464 @@
+@font-face {
+  font-family: carra;
+  src: url(MacondoSwashCaps-Regular.ttf);
+}
+@font-face {
+  font-family: ikea;
+  src: url(Passion_One/PassionOne-Bold.ttf);
+}
+@font-face {
+  font-family: desenio;
+  src: url(News_Cycle-Regular.ttf);
+}
+
+.container {
+  margin: 0 auto;
+  width: 70%;
+  margin-top: 5%;
+  background-color: rgb(253, 251, 251);
+}
+.Rectangle{
+  position: relative;
+  width: 674.49px;
+  height: 668.42px;
+  }
+  .Rectangle1{
+  box-sizing: border-box;
+  position: absolute;
+  left: 46.11%;
+  right: -21.05%;
+  top: 4.88%;
+  bottom: 38.85%;
+  background: #534D4D;
+  border: 1px solid #5E5858;
+  border-radius: 53px;
+  transform: rotate(43.29deg);
+  }
+  .Rectangle2{
+  position: absolute;
+  left: 1.04%;
+  right: -10.08%;
+  top: -28.32%;
+  bottom: 87.22%;
+  background: #FFF7F7;
+  }
+  .Rectangle4{
+  position: relative;
+  width: 462px;
+  height: 353px;
+  top: 42%;
+  left: 20%;
+  background: #FFF9F9;
+  border-radius: 53px;
+  overflow: hidden;
+  }
+  .Rectangle3{
+  position: absolute;
+  left: 102.68%;
+  right: -60.07%;
+  top: 7.53%;
+  bottom: 25.35%;
+  background: #FFFCFC;
+  }
+  .Polygon{
+  position: relative;
+  left: 60.26%;
+  right: -7.7%;
+  top: 65.51%;
+  bottom: 15.57%;
+  margin-left: 210px;
+  background: #F3F3F3;
+  transform: rotate(55.06deg);
+  overflow: hidden;
+  }
+  .shape{
+    float: right;
+    margin-top: -15%;
+    margin-left: 5%;
+  }
+.main-points{
+  gap: 30%;
+}
+.points {
+  background-color: white;
+  color: black;
+  width: 30px;
+  margin-top: 4%;
+  margin-left: 17%;
+  gap: 90%;
+  display: flex;
+}
+
+.inner_container {
+  display: flex;
+
+}
+
+.inner_first {
+  margin: 80px;
+}
+
+#caraa {
+  font-size: large;
+ position: relative;
+ overflow: visible;
+  color: black;
+  font-family: carra;
+  top: -3px;
+  left: -500%;
+}
+#home {
+  border: dotted 2px;
+  border-color: gray;
+}
+
+.paragraphs {
+  line-height: 80px;
+  font-size: 1.5vw;
+  width: 900%;
+}
+
+#button1 {
+  background-color: rgb(66, 64, 64);
+  width: 40%;
+  color: white;
+  text-align: center;
+  border-radius: 30px;
+  padding: 25px;
+  font-size: 1vw;
+  border: none;
+}
+.buttons{
+  display: flex;
+  gap: 2%;
+}
+#video{
+  margin-left: 2%;
+  font-size: 1vw;
+  margin-top: 9%;
+}
+.video-buttons{
+  margin-top: 10%;
+}
+
+.items {
+  display: flex;
+  padding: 1px;
+  gap: 35px;
+  font-size: 1vw;
+  text-align: left;
+  color: black;
+  margin: 30px 10px;
+  width: 600%;
+}
+
+.words {
+  display: flex;
+  gap: 6%;
+  font-size: 20vw;
+  text-align: center;
+  color: black;
+  font-size: 1.2vw;
+  margin-left: 10%;
+}
+
+.best_saller {
+  margin: 200px 80px;
+}
+
+#elevate {
+  font-size: 0.8vw;
+}
+
+#photo {
+  width: 550px;
+  border: none;
+  height: 600px;
+  margin-top: 21%;
+  position: relative;
+  overflow: visible;
+  margin-left:33%;
+  border-radius: 24px;
+
+}
+#ikea{
+  font-family: ikea;
+  font-size: 2vw;
+}
+#desenio{
+  font-family: desenio;
+}
+
+.second_images {
+  display: flex;
+  margin-left: 100px auto;
+  width: 30%;
+  width: 35%;
+
+}
+
+#first-image {
+  height: 70%;
+  width: 70%;
+}
+
+#second-image {
+  height: 150%;
+  width: 80%;
+}
+
+#third-image {
+  width: 70%;
+  height: 70%;
+}
+
+#last-image {
+  width: 70%;
+  height: 70%;
+}
+
+.wordings {
+  display: flex;
+  gap: 8%;
+  text-align: left;
+  margin-left: 30px;
+}
+
+#pic {
+  margin: 0 60px;
+  border-radius: 20px;
+}
+
+.text {
+  width: 150%;
+  line-height: 65px;
+  font-size: 1.3vw;
+}
+
+.text2 {
+  line-height: 33px;
+  width: 200%;
+}
+
+#offer {
+  font-size: 1vw;
+}
+
+#G464b {
+  width: 65%;
+  height: 85%;
+  border-radius: 20px;
+  margin: 20px;
+  border: none;
+}
+
+.one {
+  text-align: center;
+  font-size: 1.5vw;
+  word-spacing: 2px;
+  margin: 20px;
+}
+
+.main_one {
+  display: flex;
+  font-size: 1vw;
+  text-align: left;
+  gap: 10%;
+}
+
+.picture {
+  float: left;
+}
+
+.restyle {
+  line-height: 5px;
+  font-size: 1vw;
+}
+
+.the_words {
+  float: right;
+  word-spacing: 3px;
+  margin: 0 30px;
+  line-height: 60px;
+}
+
+.actual_words {
+  text-align: left;
+  line-height: 50px;
+}
+
+#button2 {
+  float: left;
+  height: 60px;
+  background: none;
+  color: black;
+  width: 40%;
+  border-radius: 40px;
+  font-size: 1.1vw;
+}
+
+.two {
+  display: flex;
+  text-align: left;
+  margin: 100px 50px;
+}
+
+.firstoftwo {
+  margin: 100px;
+  word-spacing: 4%;
+  width: 80%;
+  line-height: 50px;
+}
+
+.secondoftwo {
+  margin: 100px;
+}
+
+#button3 {
+  border-radius: 30px;
+  padding: 20px;
+  width: 50%;
+  font-size: 1vw;
+}
+
+.forth_page {
+  text-align: center;
+}
+
+.icons {
+  gap: 14%;
+  border-radius: 20px;
+  display: flex;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+#amphora {
+  background-color: black;
+  height: 150px;
+  width: 12%;
+  border-radius: 20px;
+}
+
+#shield_check {
+  background-color: rgb(10, 10, 10);
+  height: 150px;
+  width: 12%;
+  border-radius: 20px;
+}
+
+#lucid-image {
+  background-color: rgb(19, 18, 18);
+  height: 150px;
+  width: 12%;
+  border-radius: 20px;
+}
+
+#lucid-cable {
+  background-color: rgb(19, 18, 18);
+  height: 150px;
+  width: 12%;
+  border-radius: 20px;
+
+}
+
+.top-words {
+  display: flex;
+  gap: 73%;
+  margin-left: 10%;
+}
+
+.new {
+  gap: 200%;
+  display: flex;
+  margin-left: -7%;
+}
+
+.new2 {
+  display: flex;
+  gap: 200%;
+}
+
+#new3 {
+  color: red;
+}
+
+.services_offered {
+  display: flex;
+  text-align: center;
+  gap: 13%;
+  margin: 0 100px;
+  line-height: 25px;
+}
+
+.flower-area {
+  display: flex;
+}
+
+#crdownload {
+  height: 100%;
+  width: 60%;
+}
+.flower-area {
+  display: flex;
+  gap: 10%;
+}
+
+#arrow {
+  width: 100%;
+  float: right;
+  margin-top: 3%;
+  height: 30px;
+}
+
+.the-image {
+  display: flex;
+  margin-left: -170%;
+}
+
+.the-heading {
+  margin-top: 10%;
+}
+
+.image-area{
+  margin-left: -5%;
+}
+#Screenshot {
+  height: 80px;
+  border-radius: 10px;
+}
+
+.text3 {
+  line-height: 3cap;
+  margin-left: -169%;
+  text-align: left;
+}
+
+.footer {
+  display: flex;
+  gap: 10%;
+  margin-left: 20%;
+  width: 100%;
+  margin-top: 18%;
+}
+
+.mixture {
+  display: flex;
+  gap: 20%;
+}
+
+.symbols {
+  display: flex;
+  margin-left: 55%;
+  margin-top: -20%;
+  gap: 20%;
+}
+
+.last-line {
+  display: flex;
+  gap: 54%;
+  margin-left: 20%;
+  margin-top: 3%;
+}
+@media screen and (max-width: 8px) {
+  } 
